@@ -1,0 +1,21 @@
+.p_satu {
+  background-color: orange;
+  font-family: 'Times New Roman';
+  font-size: 14px;
+}
+
+.p_dua {
+  background-color: blue;
+  font-family: arial;
+  font-size: 14px;
+}
+
+.p_tiga {
+  font-family: monospace;
+  font-size: 16px;
+}
+
+.p_empat {
+  background-color: gray;
+  font-weight: bold;
+}
